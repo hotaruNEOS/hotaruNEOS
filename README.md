@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/Ghssyc4b/3090ti.png" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.postimg.cc/pd7W7dkN/illustration-anime-anime-girls-white-background-horns-cartoon-16623-wallhere-com.jpg" height="100%" width="100%" /></a>
 </p>
 
 Hi, I'm hotaruNEOS.
@@ -30,6 +30,7 @@ use Linux and create Networks
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hotaruneos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotaruneos" height="30" width="40" /></a>
+<a href="https://www.threads.net/@hotaruneos" target="blank"><img align="center" src="https://i.postimg.cc/P5vTDHT2/threads-seeklogo-com.png" alt="hotaruneos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hotaruneos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hotaruneos" height="30" width="40" /></a>
 </p>
 
