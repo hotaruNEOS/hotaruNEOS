@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866
 
 <!--
 **hotaruNEOS/hotaruNEOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
