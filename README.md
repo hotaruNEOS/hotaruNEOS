@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/pd7W7dkN/illustration-anime-anime-girls-white-background-horns-cartoon-16623-wallhere-com.jpg" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.postimg.cc/vm3FSZVv/Screenshot-20230721-003916.png" height="100%" width="100%" /></a>
 </p>
 
 Hi, I'm hotaruNEOS.
@@ -16,6 +16,7 @@ use Linux and create Networks
 ### I am interested in:
 
 - Fedora Linux (Linux Operative System)
+- KDE Neon Linux (Linux Operative System)
 
 ### Stats
 [![hotaruNEOS's stats](https://github-readme-stats.vercel.app/api?username=hotaruneos&show_icons=true&theme=react)](https://github.com/hotaruneos/github-readme-stats)
