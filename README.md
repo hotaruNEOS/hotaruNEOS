@@ -1,7 +1,6 @@
 <h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/vm3FSZVv/Screenshot-20230721-003916.png" height="100%" width="100%" /></a>
-<a href="#"><img src="https://i.postimg.cc/k5zFCLLt/SAVE-20230116-244558.jpg" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.postimg.cc/MH0QqSb8/Screenshot-20230729-005532.png" height="100%" width="100%" /></a>
 </p>
 
 Hi, I'm hotaruNEOS.
@@ -17,7 +16,6 @@ use Linux and create Networks
 ### I am interested in:
 
 - Fedora Linux (Linux Operative System)
-- KDE Neon Linux (Linux Operative System)
 
 ### Stats
 [![hotaruNEOS's stats](https://github-readme-stats.vercel.app/api?username=hotaruneos&show_icons=true&theme=react)](https://github.com/hotaruneos/github-readme-stats)
@@ -28,7 +26,6 @@ use Linux and create Networks
 ### Interests
 
 <a href="https://fedoraproject.org/es//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fedora_logo_and_wordmark.svg/800px-Fedora_logo_and_wordmark.svg.png" height="20%" width="20%"></a>
-<br><br><a href="https://neon.kde.org/"><img src="https://i.postimg.cc/sf0nHZ0X/pngwing-com.png" height="10%" width="10%"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
