@@ -32,6 +32,7 @@ use Linux and create Networks
 <a href="https://twitter.com/hotaruneos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotaruneos" height="30" width="40" /></a>
 <a href="https://www.threads.net/@hotaruneos" target="blank"><img align="center" src="https://i.postimg.cc/JzPyFWGN/instagram-threads-1-removebg-preview-2.png" alt="hotaruneos" height="40" width="40" /></a>
 <a href="https://www.youtube.com/c/hotaruneos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hotaruneos" height="30" width="40" /></a>
+<a href="https://masto.es/@hotaruNEOS" target="blank"><img align="center" src="https://i.postimg.cc/Hx9MCmt1/logo-mastodon.png" alt="hotaruneos" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
