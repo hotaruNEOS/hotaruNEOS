@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://i.postimg.cc/RhqmyF9C/fedora37.png" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.postimg.cc/W1qxMJ4h/Screenshot-20231120-183941.png" height="100%" width="100%" /></a>
 </p>
 
 Hi, I'm hotaruNEOS.
@@ -25,7 +25,7 @@ use Linux and create Networks
 
 ### Interests
 
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/W1qxMJ4h/Screenshot-20231120-183941.png" height="20%" width="20%"></a>
+<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 <a href="https://fedoraproject.org/es//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fedora_logo_and_wordmark.svg/800px-Fedora_logo_and_wordmark.svg.png" height="20%" width="20%"></a>
 
