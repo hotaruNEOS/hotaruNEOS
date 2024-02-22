@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://postimg.cc/B8Gy9gs0" height="100%" width="100%" /></a>
+<a href="#"><img src="https://i.postimg.cc/XvZ05Hzp/Screenshot-20240221-181205.png" height="100%" width="100%" /></a>
 </p>
 
 Hi, I'm hotaruNEOS.
