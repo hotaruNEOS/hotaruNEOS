@@ -1,9 +1,9 @@
-<h3 align="center">Hi, I'm hotaruNEOS</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
+<h3 align="center">Hi, I'm Roberto Landeros</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="28" /> </h3>
 <p align="center">
 <a href="#"><img src="https://i.postimg.cc/XvZ05Hzp/Screenshot-20240221-181205.png" height="100%" width="100%" /></a>
 </p>
 
-Hi, I'm hotaruNEOS.
+Hi, I'm Roberto Landeros.
 A regular person with a regular life who enjoy of take pictures, recording blogs, 
 use Linux and create Networks
 
@@ -24,8 +24,6 @@ use Linux and create Networks
 ![hotaruNEOS's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hotaru&theme=react&layout=compact&hide=HTML)
 
 ### Interests
-
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 <a href="https://fedoraproject.org/es//"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fedora_logo_and_wordmark.svg/800px-Fedora_logo_and_wordmark.svg.png" height="20%" width="20%"></a>
 
